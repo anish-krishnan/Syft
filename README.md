@@ -1,6 +1,6 @@
 # Syft
 
-## Improving social communication starting with speech.
+## Improving social communication starting with speech
 
 ### It's okay, we know you're not alone
 
